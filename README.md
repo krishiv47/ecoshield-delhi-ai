@@ -37,7 +37,7 @@ routing decision.
   and an animated timeline.
 - **Restricted driver console** — a bounded in-cab terminal; admins can open any
   driver, drivers cannot reach admin modules.
-- **28 passing tests**, deployed live on GitHub Pages.
+- **28 passing tests**, deployed live on GitHub Pages..
 
 ---
 
